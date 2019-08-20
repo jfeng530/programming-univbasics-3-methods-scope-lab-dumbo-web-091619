@@ -9,6 +9,10 @@ def toadstool
 end
 
 def link
-  sword = "It's Dangerous To Go Along! Take This."
+  sword = "It's Dangerous To Go Alone! Take This."
   puts sword
+end
+
+def any_phrase (phrase)
+  puts phrase
 end
